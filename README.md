@@ -12,7 +12,7 @@ SMS classification dataset from Kaggle
 ## Steps/Implementation
 1. **Data Preprocessing**: Clean and transform the text data using tokenization, stemming, and removal of stopwords.
 2. **Feature Extraction**: Convert text data into numerical features using vectorization techniques.
-3. **Model Training**: Train a machine learning model using labeled data.
+3. **Model Training**: Train a machine learning model using labeled data. used naive bayes from sklearn
 4. **Prediction**: Use the trained model to classify new SMS messages.
 
 ## Model Implementation
