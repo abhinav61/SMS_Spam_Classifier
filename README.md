@@ -6,6 +6,9 @@ Spam messages are a common nuisance in today's digital communication. Identifyin
 ## Solutions
 This project provides a machine learning-based solution to classify SMS messages as spam or not spam. It uses natural language processing (NLP) techniques for text preprocessing and a trained model for prediction.
 
+## Data Source
+SMS classification dataset from Kaggle 
+
 ## Steps/Implementation
 1. **Data Preprocessing**: Clean and transform the text data using tokenization, stemming, and removal of stopwords.
 2. **Feature Extraction**: Convert text data into numerical features using vectorization techniques.
